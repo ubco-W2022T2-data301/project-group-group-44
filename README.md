@@ -18,18 +18,19 @@ To quantify gaybourhoods, writers and data analysts from The Pudding collected i
 
 ## Team Members
 
-- Nat Scott
-- Sami Almuallim
+- Nat Scott: Student of computer and environmental science
+- Sami Almuallim: Student of computer and data science
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
+Images coming soon.
 
 ## References
 
-{Add your stuff here}
+- [Men are from Chelsea, Women are from Park Slope](https://pudding.cool/2018/06/gayborhoods/)
+  - The article for which the data was originally collected.
+- [The Gaybourhoods data set on Github](https://github.com/the-pudding/data/blob/master/gayborhoods/README.md)
 
-
-
+Sources of (potential) secondary data sets:
+- [Data set relating US ZIP codes to their coordinates](https://www.kaggle.com/datasets/joeleichter/us-zip-codes-with-lat-and-long)
+- [Geographic situation of taxes payed in the US](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi)
