@@ -30,7 +30,6 @@ Images coming soon.
 - [Men are from Chelsea, Women are from Park Slope](https://pudding.cool/2018/06/gayborhoods/)
   - The article for which the data was originally collected.
 - [The Gaybourhoods data set on Github](https://github.com/the-pudding/data/blob/master/gayborhoods/README.md)
-
-Sources of (potential) secondary data sets:
 - [Data set relating US ZIP codes to their coordinates](https://www.kaggle.com/datasets/joeleichter/us-zip-codes-with-lat-and-long)
-- [Geographic situation of taxes payed in the US](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi)
+- [Geographic situation of taxes payed in the US](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2015-zip-code-data-soi)
+- [County Presidential Election Returns 2000-2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
