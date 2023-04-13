@@ -1,5 +1,9 @@
 ## Introduction
 
+Time and time again, we are reminded of the importance of representing underrepresented groups. In the case of media, representation is about creating a social environment where overrepresented groups need to be aware of the world's diversity. In the context of statistics, representation is about ensuring that decisions are made with everyone's needs in mind. Unfortunately but unsurprisingly, queer people are frequently left out of these decisions due to a lack of interest and desire to incorporate minorities' needs into these decision-making processes by said overrepresented groups. However, we have seen some progress on this front in recent years.
+
+In 2015, the media agency attempted to compile this data into the so-called Gaybourhoods data set, which geographically positions data concerning queer people in different neighbourhoods in 15 major US cities. Over the last semester, we have sought to use this data to answer real-world questions about queerness in the United States. Specifically, we sought to answer four principal research questions: Do queer communities concentrate in space? How do queer communities tend to vote in US elections? How are queer communities affected by taxes relative to the average US community? And finally, is the presence of gay bars in a given neighbourhood indicative of whether or not a pride parade runs through it?
+
 ## Exploratory Data Analysis
 A substantial portion of our exploratory data analysis involved trying to determine how best to represent our data on a two-dimensional plane. The two approaches we settled on involved using density (later topological) maps and scatter plots with respect to the geographical coordinates of each observation:
 
