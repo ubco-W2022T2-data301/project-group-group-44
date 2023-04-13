@@ -7,7 +7,8 @@ A substantial portion of our exploratory data analysis involved trying to determ
 ![Hexbin plot illustrating the density of counties across the US](analysis/images/graphs/4-plot-naive-hexbin.png)
 
 In the case of scatter plots, representing a tertiary dimension of the data could usually be accomplished by colouring the observations relative to some additional statistic. For example, one of the graphs we created in our exploratory data analysis illustrated all of the observations in Boston, coloured by how many gay/lesbian individuals resided in each neighbourhood:
-![Scatter plot of Gaybourhoods observations in Boston coloured by queer concentration](analysis/images/graphs/6-plot-boston-scatter.png)
+
+![Scatter plot of Gaybourhoods observations in Boston coloured by queer concentration](analysis/images/graphs/6-plot-boston-scatter2)
 
 This approach proved to be effective, particularly when combined with nice maps to better visually position the data in space, and so we used it throughout our analyses.
 
