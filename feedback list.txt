@@ -1,0 +1,30 @@
+Student hours 1:     	question: how do I plot a map & make adequate visualization for the geography of my data set
+                        answer: use tableau’s map function
+                        consultant: Dr. Moosvi
+
+Student hours 2:     	question: how would I convert zip codes into rough coordinates? I assume there is a formula to calculate this
+                        Answer: use a CSV of width 3, LAT, LONG, ZIP
+                        consultant: Dr. Moosvi
+
+Student hours 3:	question: I have received some unusual results, is this indicative of a flaw in my data analysis or could I blame it on sample bias
+                        Answer: since we are not collecting our own data a sample bias is a reasonable explanation for error
+                        Consultant: Dr. Moosvi
+
+
+Notes from [Saira] on Feedback on the analysis:
+
+			Analysis 1:
+
+				Good job.
+				Add a conclusion to your notebook showing how did you answer your research question.
+
+			Analysis 2:
+
+				I don't see much work done.
+				Improve your analysis.
+				Add details to each graph
+				Add conclusion
+				fix errors in your note book.
+
+
+all 4 feedback sessions were attended, qualifying Nat & Sami for an A+
